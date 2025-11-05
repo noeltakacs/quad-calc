@@ -1,7 +1,7 @@
 <h1 align="center">QuadCalc</h1>
 
 ## 🤔 What is this?
-<div align="center"><strong> Are you struggling to solve quadratic equations or visualize their graphs? Look no further! <br> QuadCalc, built in JavaFX, is here to simplify your mathematical journey. This tool calculates the roots of both linear and quadratic equations and provides graphical visualizations in seconds. Whether you are a student, teacher, or mathematics enthusiast, this intuitive tool will quickly become your go-to resource for understanding quadratic equations like never before. </strong></div><br>
+<div align="center"><strong> Having trouble solving quadratic equations or visualizing their graphs? Meet <em>QuadCalc</em> — a JavaFX-based tool designed to make your math journey easier. It quickly calculates the roots of both linear and quadratic equations and visualizes them with clean, interactive graphs. Whether you’re a student, teacher, or math enthusiast, QuadCalc helps you understand quadratic equations faster and more intuitively than ever before. </strong></div><br>
 
 <table>
   <tr>
@@ -11,35 +11,39 @@
 </table>
 
 ## ✍️ What is the current functionality:
-- [x] Calculate the discriminant
-- [x] Calculate the roots of a quadratic equation
-- [x] Calculate the root of a linear equation
-- [x] Graphically visualize the equation
-- [x] Graphically visualize the roots (x1, x2)
+- [x] Discriminant calculation
+- [x] Solve quadratic equations
+- [x] Solve linear equations
+- [x] Graphical visualization of equations
+- [x] Display roots directly on the graph
 - [x] Zoom in/out on the graph
-- [x] Show/hide grid lines
-- [x] Output of the results in a .txt file
-- [x] Dark mode/light mode
+- [x] Toggle grid lines
+- [x] Export results to a .txt file
+- [x] Light and dark mode support
 
 ## 📲 How to download this app?
-As of now, this application is not available for download as a standalone executable, and it's currently provided only as source code.
+Currently, QuadCalc is only available as source code and not as a standalone executable.
 1. Clone the repository or download the ZIP file.
-2. Open the project in your IDE.
+2. Open the project in your preferred IDE (recommended: Visual Studio Code).
 3. Build and run the project.
 
-I recommend doing this via ``Visual Studio Code``
-
 ## 🫶 How can you help?
-This project holds a special place in my heart as it marks the beginning of my journey into the world of development. However, I must admit that it is far from perfect. The lack of proper documentation and comments in Slovak language might make it challenging for others to understand and contribute. Therefore, if someone is willing to help with documentation, I would be very grateful.
+QuadCalc is a project close to my heart — it marks the beginning of my journey into software development. While I’m proud of how far it’s come, I know there’s still plenty of room for improvement.
 
-One of the biggest issues with the app is its non-responsiveness to different resolutions. As a result, it might not look as good on various monitors, and that's something I wish to improve.
+Some areas where help would be greatly appreciated:
 
-Another aspect that I acknowledge is the plain design. I understand that aesthetics play a crucial role in user experience, and the current design might not be appealing to everyone. It's an area where I definitely need some assistance to enhance the visual appeal of the app.
+- 🧾 Documentation: The current code lacks detailed documentation (especially in English), which could make contributing difficult.
 
-In all honesty, the app has its fair share of problems beyond the ones mentioned here. However, I'm aware that every journey begins with the first step, and I am eager to learn and grow from this experience. I welcome any contribution, bug fixes, feature enhancements, or suggestions for improvement.
+- 🖥️ Responsiveness: The UI isn’t fully optimized for different screen resolutions.
+
+- 🎨 Design: The visual style is quite simple — I’d love help improving its aesthetic appeal and user experience.
+
+There are undoubtedly other issues too, but that’s all part of the learning process.
+If you’d like to contribute — whether by fixing bugs, improving features, or refining the design — your help is more than welcome!
 
 ## 📠 License
 
-QuadCalc is a free and open source software. 
+QuadCalc is free and open-source software.
 
-I very much appreciate any contributions to this project as I encourage you to fork it and build something new!
+Feel free to fork the project, modify it, and build something new.
+Every contribution means a lot — thank you for helping make QuadCalc better!
