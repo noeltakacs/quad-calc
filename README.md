@@ -24,7 +24,7 @@
 ## 📲 How to download this app?
 Currently, QuadCalc is only available as source code and not as a standalone executable.
 1. Clone the repository or download the ZIP file.
-2. Open the project in your preferred IDE (recommended: Visual Studio Code).
+2. Open the project in your preferred IDE (recommended: ``Visual Studio Code``).
 3. Build and run the project.
 
 ## 🫶 How can you help?
